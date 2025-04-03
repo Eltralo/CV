@@ -29,6 +29,7 @@
 * Моя учеба в Deep_learning_Scool МФТИ [https://github.com/Eltralo/DLS_MFTI]
 * Еще различные проекты МИФИ, SkillFactory
   - банковский маркетинг, классификация - классический ML [https://github.com/Eltralo/Bank_marketing_deposit/blob/main/README.MD]
+  - детекция CV [https://github.com/Eltralo/DLS_MFTI/blob/main/mmdetection_tutorial.ipynb]
   - кластеризация,RFM-анализ [https://github.com/Eltralo/Mindbox/blob/main/cs.ipynb]
   - классиффикация, банковский анализ [https://github.com/Eltralo/Churn_data-bank-]
   - работа с текстовыми отзывами отеля, задача на каггл [https://github.com/Eltralo/Project_3_hotels_predict/blob/main/Project_3_EDA/README.md]
