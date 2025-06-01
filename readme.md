@@ -16,6 +16,8 @@
   -Дополнительное образование от МФТИ
        *Deep Learning Scool
 
+  -ML-nренировки от Yandex (CV)
+
   -ДипиИфр 
   
 * Английский - intermediate
