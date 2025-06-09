@@ -29,6 +29,7 @@
 * Проект "Проект Сберавтопописка" [https://github.com/Eltralo/sberautopodpiska] (Classic_ML)
 * Ml - хакатон ФИЦ-2024  [https://github.com/Eltralo/Buh_puls_hackaton], сертификат за 2 место [https://github.com/Eltralo/Buh_puls_hackaton/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_2%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE.pdf]
 * ML - хакатон Сиам-2025 - временные ряды плюс задача классификации [https://github.com/Eltralo/Siam], решения нет в доступе, делается пет-проект
+* ML -хакатон Майндбокс - RFM [https://github.com/Eltralo/Mindbox]
 * Моя учеба в Deep_learning_Scool МФТИ [https://github.com/Eltralo/DLS_MFTI]
 * Исследовательские проекты (МИФИ)
   - Исследование молекулярных дескрипторов и химических соединений (classic ML)[https://github.com/Eltralo/Research-of-chemical-compounds/blob/main/README.MD]
