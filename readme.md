@@ -34,7 +34,7 @@
 * Моя учеба в Deep_learning_Scool МФТИ [https://github.com/Eltralo/DLS_MFTI]
 * Рекомендательные системы (классические -SVD,Item-Based, Content-Based, Popularity и нейросетевые Two Towers, Гибрид) [https://github.com/Eltralo/MIFI_Recommendation_HW/blob/main/README.md]
 * NLP RAG [https://github.com/Eltralo/Tourist-Guide-RAG-/blob/main/README.md]
-* Spar [https://github.com/Eltralo/Spark_Covid]
+* Spark [https://github.com/Eltralo/Spark_Covid]
 * Исследовательские проекты (МИФИ)
   - Исследование молекулярных дескрипторов и химических соединений (classic ML)[https://github.com/Eltralo/Research-of-chemical-compounds/blob/main/README.MD]
   - Исследование по отделению нейтронов и гамма-квантов, а также шума в сцентеллярном детекторе (Classic ML) [https://github.com/Eltralo/clusters-of-gamma-quanta-and-neutrons/tree/main]
