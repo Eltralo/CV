@@ -25,7 +25,7 @@
 
 ### 📚 Проекты и хакатоны 📚
 
-
+* Файнтюн VLLM с сегментацией и детекцтей фотографий[https://github.com/Eltralo/sida-tourist-deepfake/blob/main/README.md]
 * Проект "Чат-бот для финансовых инвестиций" на основе временных рядов [https://github.com/Eltralo/Chatbot-for-financial-investments]
 * Проект "Зарядье" [https://github.com/Eltralo/Zaradye_bot] -NLP (Bert)
 * Проект "Проект Сберавтопописка" [https://github.com/Eltralo/sberautopodpiska] (Classic_ML)
